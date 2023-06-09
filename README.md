@@ -1,6 +1,6 @@
 # ClickClassicos
 Repositório do projeto Click Classicos  
-
+[Link para o site](https://clickclassicos.com/)
 ## 📁 Acesso ao projeto
 O Projeto contem quatro pastas, sendo elas ClickClassicosApp que contem o jogo compilado para windows, ClickClassicosWeb que contem o projeto compilado para web, Projeto-ClickClassicos que contem o código-fonte do jogo e a documentação que contem os PDFs documentando o projeto. 
 ## 🔨 Funcionalidades do projeto
